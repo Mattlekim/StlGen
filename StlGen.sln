@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StlGen.App", "src\StlGen.App\StlGen.App.csproj", "{A474CACF-38DD-4AF1-B91A-3EC0C897A5F3}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FA58406B-E2D9-4702-A8F2-3E64189B4EB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StlGen.Core", "src\StlGen.Core\StlGen.Core.csproj", "{3488640B-F9E0-48D4-AD12-56B997376723}"
@@ -10,8 +12,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{26DF5796-FF76-4D13-B403-879336743F3C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StlGen.Core.Tests", "tests\StlGen.Core.Tests\StlGen.Core.Tests.csproj", "{33B65F2E-2B50-4C9C-8716-7F321B2B3F92}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StlGen.App", "src\StlGen.App\StlGen.App.csproj", "{A474CACF-38DD-4AF1-B91A-3EC0C897A5F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
